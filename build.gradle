@@ -74,6 +74,7 @@ dependencies {
     this.addModularCompile('net.dv8tion:JDA:4.3.0_334', 'jda', false)
     this.addModularCompile('com.github.pengrad:java-telegram-bot-api:5.2.0', 'telegramapi', false)
     this.addModularCompile("me.clip:placeholderapi:2.10.10", "placeholderapi", false)
+    this.addModularCompile("net.luckperms:api:5.3", "luckperms", false)
 	this.addModularCompile('com.github.CuukyOfficial:CFW:master-SNAPSHOT', 'CFW', true)
 
 // Enable if needed
